@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avulatrishal25" alt="avulatrishal25" /></a> </p>
 
+- 🌱 I’m currently learning **AI,ML**
+
 - 📫 How to reach me **avulatrishal31@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
@@ -23,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avulatrishal25&show_icons=true&locale=en" alt="avulatrishal25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avulatrishal25&" alt="avulatrishal25" /></p>
-
