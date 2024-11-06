@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aavulaw Trishal</h1>
-<h3 align="center">Crafting a Standout GitHub Profile: Tips for Showcasing Your Skills and Projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avulatrishal25&label=Profile%20views&color=0e75b6&style=flat" alt="avulatrishal25" /> </p>
 
